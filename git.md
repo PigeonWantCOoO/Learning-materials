@@ -11,3 +11,11 @@ git remote <name> <ssh:url>
 ```
 git reset --hard HEAD^ 
 ```
+
+删除资料：
+
+```
+git rm
+git rm -r
+```
+
